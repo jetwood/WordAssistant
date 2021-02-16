@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bookmark.png</file>
+        <file>image/delete.png</file>
+        <file>image/hide.png</file>
+        <file>image/new.png</file>
+        <file>image/open.png</file>
+        <file>image/paste.png</file>
+        <file>image/picture.png</file>
+        <file>image/quit.png</file>
+        <file>image/scanner.png</file>
+        <file>image/setting.png</file>
+        <file>image/text.png</file>
+        <file>image/add.png</file>
+        <file>image/MainMenu.png</file>
+        <file>image/save.png</file>
+    </qresource>
+</RCC>
